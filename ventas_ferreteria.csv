@@ -1,0 +1,265 @@
+id,periodo,anio,mes,producto,categoria,canal,unidades,precio_unit,costo_unit
+1,2025-01,2025,1,Cemento gris 42.5 kg,Construcción,Mostrador,69,98.50,70.97
+2,2025-01,2025,1,Block de concreto 15x20x40,Construcción,Contratistas,412,9.36,6.08
+3,2025-01,2025,1,Taladro inalámbrico 18V,Herramientas,WhatsApp,11,902.01,642.14
+4,2025-01,2025,1,Juego de llaves combinadas,Herramientas,Mostrador,17,325.29,224.76
+5,2025-01,2025,1,Pintura látex galón,Pinturas,Contratistas,48,267.47,168.51
+6,2025-01,2025,1,Barniz para madera galón,Pinturas,WhatsApp,21,177.40,113.89
+7,2025-01,2025,1,Cable THW calibre 12 (metro),Eléctrico,Mostrador,529,7.96,5.71
+8,2025-01,2025,1,Interruptor sencillo,Eléctrico,Contratistas,68,21.79,13.95
+9,2025-01,2025,1,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,129,39.01,27.41
+10,2025-01,2025,1,Llave de paso 1/2 pulg,Plomería,Mostrador,38,65.37,42.05
+11,2025-01,2025,1,Tornillos para madera (caja),Tornillería,Contratistas,38,48.38,28.67
+12,2025-01,2025,1,Clavos 2 pulg (libra),Tornillería,WhatsApp,97,16.38,10.28
+13,2025-02,2025,2,Cemento gris 42.5 kg,Construcción,Contratistas,84,96.16,70.11
+14,2025-02,2025,2,Block de concreto 15x20x40,Construcción,WhatsApp,340,9.51,6.24
+15,2025-02,2025,2,Taladro inalámbrico 18V,Herramientas,Mostrador,11,899.41,615.10
+16,2025-02,2025,2,Juego de llaves combinadas,Herramientas,Contratistas,16,325.60,222.74
+17,2025-02,2025,2,Pintura látex galón,Pinturas,WhatsApp,43,271.85,171.46
+18,2025-02,2025,2,Barniz para madera galón,Pinturas,Mostrador,19,184.74,116.24
+19,2025-02,2025,2,Cable THW calibre 12 (metro),Eléctrico,Contratistas,544,7.65,5.34
+20,2025-02,2025,2,Interruptor sencillo,Eléctrico,WhatsApp,54,21.61,14.22
+21,2025-02,2025,2,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,125,37.43,26.02
+22,2025-02,2025,2,Llave de paso 1/2 pulg,Plomería,Contratistas,31,65.27,42.38
+23,2025-02,2025,2,Tornillos para madera (caja),Tornillería,WhatsApp,47,48.54,29.05
+24,2025-02,2025,2,Clavos 2 pulg (libra),Tornillería,Mostrador,98,16.42,10.48
+25,2025-03,2025,3,Cemento gris 42.5 kg,Construcción,WhatsApp,124,98.78,71.85
+26,2025-03,2025,3,Block de concreto 15x20x40,Construcción,Mostrador,498,9.69,6.40
+27,2025-03,2025,3,Taladro inalámbrico 18V,Herramientas,Contratistas,16,916.68,639.10
+28,2025-03,2025,3,Juego de llaves combinadas,Herramientas,WhatsApp,22,317.90,210.12
+29,2025-03,2025,3,Pintura látex galón,Pinturas,Mostrador,69,267.61,170.84
+30,2025-03,2025,3,Barniz para madera galón,Pinturas,Contratistas,30,180.81,116.79
+31,2025-03,2025,3,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,732,7.83,5.56
+32,2025-03,2025,3,Interruptor sencillo,Eléctrico,Mostrador,107,22.45,14.64
+33,2025-03,2025,3,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,188,38.82,26.49
+34,2025-03,2025,3,Llave de paso 1/2 pulg,Plomería,WhatsApp,55,64.02,42.73
+35,2025-03,2025,3,Tornillos para madera (caja),Tornillería,Mostrador,68,48.28,28.89
+36,2025-03,2025,3,Clavos 2 pulg (libra),Tornillería,Contratistas,176,16.45,10.41
+37,2025-04,2025,4,Cemento gris 42.5 kg,Construcción,Mostrador,120,96.36,68.41
+38,2025-04,2025,4,Block de concreto 15x20x40,Construcción,Contratistas,540,9.36,6.27
+39,2025-04,2025,4,Taladro inalámbrico 18V,Herramientas,WhatsApp,16,897.21,609.73
+40,2025-04,2025,4,Juego de llaves combinadas,Herramientas,Mostrador,19,322.89,225.26
+41,2025-04,2025,4,Pintura látex galón,Pinturas,Contratistas,54,270.22,170.32
+42,2025-04,2025,4,Barniz para madera galón,Pinturas,WhatsApp,31,183.17,118.56
+43,2025-04,2025,4,Cable THW calibre 12 (metro),Eléctrico,Mostrador,865,7.89,5.49
+44,2025-04,2025,4,Interruptor sencillo,Eléctrico,Contratistas,87,22.20,14.66
+45,2025-04,2025,4,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,191,38.17,26.69
+46,2025-04,2025,4,Llave de paso 1/2 pulg,Plomería,Mostrador,40,64.42,42.74
+47,2025-04,2025,4,Tornillos para madera (caja),Tornillería,Contratistas,72,49.14,29.49
+48,2025-04,2025,4,Clavos 2 pulg (libra),Tornillería,WhatsApp,124,16.21,10.31
+49,2025-05,2025,5,Cemento gris 42.5 kg,Construcción,Contratistas,135,100.52,71.53
+50,2025-05,2025,5,Block de concreto 15x20x40,Construcción,WhatsApp,521,9.69,6.40
+51,2025-05,2025,5,Taladro inalámbrico 18V,Herramientas,Mostrador,14,877.73,599.89
+52,2025-05,2025,5,Juego de llaves combinadas,Herramientas,Contratistas,28,314.42,211.84
+53,2025-05,2025,5,Pintura látex galón,Pinturas,WhatsApp,61,269.90,167.82
+54,2025-05,2025,5,Barniz para madera galón,Pinturas,Mostrador,30,179.35,111.66
+55,2025-05,2025,5,Cable THW calibre 12 (metro),Eléctrico,Contratistas,754,7.69,5.61
+56,2025-05,2025,5,Interruptor sencillo,Eléctrico,WhatsApp,97,22.45,14.29
+57,2025-05,2025,5,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,163,38.06,26.00
+58,2025-05,2025,5,Llave de paso 1/2 pulg,Plomería,Contratistas,49,65.91,42.38
+59,2025-05,2025,5,Tornillos para madera (caja),Tornillería,WhatsApp,58,47.51,29.23
+60,2025-05,2025,5,Clavos 2 pulg (libra),Tornillería,Mostrador,121,16.12,10.20
+61,2025-06,2025,6,Cemento gris 42.5 kg,Construcción,WhatsApp,119,99.74,70.47
+62,2025-06,2025,6,Block de concreto 15x20x40,Construcción,Mostrador,586,9.73,6.28
+63,2025-06,2025,6,Taladro inalámbrico 18V,Herramientas,Contratistas,16,912.25,639.22
+64,2025-06,2025,6,Juego de llaves combinadas,Herramientas,WhatsApp,29,316.17,219.44
+65,2025-06,2025,6,Pintura látex galón,Pinturas,Mostrador,62,265.34,168.94
+66,2025-06,2025,6,Barniz para madera galón,Pinturas,Contratistas,25,179.14,111.80
+67,2025-06,2025,6,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,733,7.84,5.66
+68,2025-06,2025,6,Interruptor sencillo,Eléctrico,Mostrador,91,22.07,14.20
+69,2025-06,2025,6,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,161,37.47,26.31
+70,2025-06,2025,6,Llave de paso 1/2 pulg,Plomería,WhatsApp,53,66.35,44.71
+71,2025-06,2025,6,Tornillos para madera (caja),Tornillería,Mostrador,54,49.33,30.27
+72,2025-06,2025,6,Clavos 2 pulg (libra),Tornillería,Contratistas,157,16.01,10.09
+73,2025-07,2025,7,Cemento gris 42.5 kg,Construcción,Mostrador,138,99.32,73.49
+74,2025-07,2025,7,Block de concreto 15x20x40,Construcción,Contratistas,508,9.38,6.21
+75,2025-07,2025,7,Taladro inalámbrico 18V,Herramientas,WhatsApp,17,901.19,616.06
+76,2025-07,2025,7,Juego de llaves combinadas,Herramientas,Mostrador,26,322.49,220.19
+77,2025-07,2025,7,Pintura látex galón,Pinturas,Contratistas,171,263.60,166.36
+78,2025-07,2025,7,Barniz para madera galón,Pinturas,WhatsApp,30,177.31,110.12
+79,2025-07,2025,7,Cable THW calibre 12 (metro),Eléctrico,Mostrador,957,7.71,5.53
+80,2025-07,2025,7,Interruptor sencillo,Eléctrico,Contratistas,104,22.35,14.25
+81,2025-07,2025,7,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,170,38.20,26.00
+82,2025-07,2025,7,Llave de paso 1/2 pulg,Plomería,Mostrador,54,64.65,42.19
+83,2025-07,2025,7,Tornillos para madera (caja),Tornillería,Contratistas,55,47.19,28.16
+84,2025-07,2025,7,Clavos 2 pulg (libra),Tornillería,WhatsApp,172,16.30,10.05
+85,2025-08,2025,8,Cemento gris 42.5 kg,Construcción,Contratistas,73,96.51,67.50
+86,2025-08,2025,8,Block de concreto 15x20x40,Construcción,WhatsApp,340,9.64,6.39
+87,2025-08,2025,8,Taladro inalámbrico 18V,Herramientas,Mostrador,14,892.78,635.44
+88,2025-08,2025,8,Juego de llaves combinadas,Herramientas,Contratistas,19,324.08,221.90
+89,2025-08,2025,8,Pintura látex galón,Pinturas,WhatsApp,56,263.89,166.01
+90,2025-08,2025,8,Barniz para madera galón,Pinturas,Mostrador,22,185.21,119.33
+91,2025-08,2025,8,Cable THW calibre 12 (metro),Eléctrico,Contratistas,645,7.98,5.73
+92,2025-08,2025,8,Interruptor sencillo,Eléctrico,WhatsApp,82,21.99,14.68
+93,2025-08,2025,8,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,113,38.64,26.56
+94,2025-08,2025,8,Llave de paso 1/2 pulg,Plomería,Contratistas,28,65.96,42.98
+95,2025-08,2025,8,Tornillos para madera (caja),Tornillería,WhatsApp,53,48.96,28.71
+96,2025-08,2025,8,Clavos 2 pulg (libra),Tornillería,Mostrador,122,15.94,10.12
+97,2025-09,2025,9,Cemento gris 42.5 kg,Construcción,WhatsApp,92,97.72,70.62
+98,2025-09,2025,9,Block de concreto 15x20x40,Construcción,Mostrador,435,9.36,6.22
+99,2025-09,2025,9,Taladro inalámbrico 18V,Herramientas,Contratistas,10,882.72,612.49
+100,2025-09,2025,9,Juego de llaves combinadas,Herramientas,WhatsApp,19,324.09,214.15
+101,2025-09,2025,9,Pintura látex galón,Pinturas,Mostrador,50,264.42,168.05
+102,2025-09,2025,9,Barniz para madera galón,Pinturas,Contratistas,20,180.19,111.61
+103,2025-09,2025,9,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,510,7.86,5.63
+104,2025-09,2025,9,Interruptor sencillo,Eléctrico,Mostrador,82,22.31,14.41
+105,2025-09,2025,9,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,108,37.52,25.15
+106,2025-09,2025,9,Llave de paso 1/2 pulg,Plomería,WhatsApp,32,65.26,42.46
+107,2025-09,2025,9,Tornillos para madera (caja),Tornillería,Mostrador,42,49.31,29.75
+108,2025-09,2025,9,Clavos 2 pulg (libra),Tornillería,Contratistas,125,16.12,10.08
+109,2025-10,2025,10,Cemento gris 42.5 kg,Construcción,Mostrador,107,98.56,69.96
+110,2025-10,2025,10,Block de concreto 15x20x40,Construcción,Contratistas,421,9.67,6.31
+111,2025-10,2025,10,Taladro inalámbrico 18V,Herramientas,WhatsApp,13,877.61,631.95
+112,2025-10,2025,10,Juego de llaves combinadas,Herramientas,Mostrador,18,329.12,226.21
+113,2025-10,2025,10,Pintura látex galón,Pinturas,Contratistas,55,271.99,178.31
+114,2025-10,2025,10,Barniz para madera galón,Pinturas,WhatsApp,21,185.19,119.83
+115,2025-10,2025,10,Cable THW calibre 12 (metro),Eléctrico,Mostrador,536,7.97,5.61
+116,2025-10,2025,10,Interruptor sencillo,Eléctrico,Contratistas,62,21.96,14.39
+117,2025-10,2025,10,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,122,38.14,26.77
+118,2025-10,2025,10,Llave de paso 1/2 pulg,Plomería,Mostrador,36,64.31,42.77
+119,2025-10,2025,10,Tornillos para madera (caja),Tornillería,Contratistas,39,49.19,30.31
+120,2025-10,2025,10,Clavos 2 pulg (libra),Tornillería,WhatsApp,124,16.35,10.26
+121,2025-11,2025,11,Cemento gris 42.5 kg,Construcción,Contratistas,91,99.17,69.62
+122,2025-11,2025,11,Block de concreto 15x20x40,Construcción,WhatsApp,342,9.66,6.24
+123,2025-11,2025,11,Taladro inalámbrico 18V,Herramientas,Mostrador,12,921.80,626.61
+124,2025-11,2025,11,Juego de llaves combinadas,Herramientas,Contratistas,14,327.18,223.58
+125,2025-11,2025,11,Pintura látex galón,Pinturas,WhatsApp,44,272.36,173.06
+126,2025-11,2025,11,Barniz para madera galón,Pinturas,Mostrador,23,181.05,115.05
+127,2025-11,2025,11,Cable THW calibre 12 (metro),Eléctrico,Contratistas,466,7.84,5.43
+128,2025-11,2025,11,Interruptor sencillo,Eléctrico,WhatsApp,69,21.93,14.05
+129,2025-11,2025,11,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,88,38.37,26.93
+130,2025-11,2025,11,Llave de paso 1/2 pulg,Plomería,Contratistas,27,64.65,42.77
+131,2025-11,2025,11,Tornillos para madera (caja),Tornillería,WhatsApp,38,49.37,29.07
+132,2025-11,2025,11,Clavos 2 pulg (libra),Tornillería,Mostrador,109,15.69,9.79
+133,2025-12,2025,12,Cemento gris 42.5 kg,Construcción,WhatsApp,80,98.11,71.96
+134,2025-12,2025,12,Block de concreto 15x20x40,Construcción,Mostrador,418,9.78,6.65
+135,2025-12,2025,12,Taladro inalámbrico 18V,Herramientas,Contratistas,9,900.20,618.03
+136,2025-12,2025,12,Juego de llaves combinadas,Herramientas,WhatsApp,16,316.22,220.03
+137,2025-12,2025,12,Pintura látex galón,Pinturas,Mostrador,43,271.39,175.18
+138,2025-12,2025,12,Barniz para madera galón,Pinturas,Contratistas,16,179.77,112.36
+139,2025-12,2025,12,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,479,7.70,5.50
+140,2025-12,2025,12,Interruptor sencillo,Eléctrico,Mostrador,54,22.64,14.70
+141,2025-12,2025,12,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,124,38.62,26.46
+142,2025-12,2025,12,Llave de paso 1/2 pulg,Plomería,WhatsApp,33,65.80,43.03
+143,2025-12,2025,12,Tornillos para madera (caja),Tornillería,Mostrador,47,47.33,28.43
+144,2025-12,2025,12,Clavos 2 pulg (libra),Tornillería,Contratistas,112,16.23,10.04
+145,2026-01,2026,1,Cemento gris 42.5 kg,Construcción,Mostrador,23,96.44,70.60
+146,2026-01,2026,1,Block de concreto 15x20x40,Construcción,Contratistas,331,9.55,6.23
+147,2026-01,2026,1,Taladro inalámbrico 18V,Herramientas,WhatsApp,13,887.22,614.53
+148,2026-01,2026,1,Juego de llaves combinadas,Herramientas,Mostrador,18,318.91,222.16
+149,2026-01,2026,1,Pintura látex galón,Pinturas,Contratistas,52,271.06,172.47
+150,2026-01,2026,1,Barniz para madera galón,Pinturas,WhatsApp,19,183.66,113.76
+151,2026-01,2026,1,Cable THW calibre 12 (metro),Eléctrico,Mostrador,639,7.78,5.62
+152,2026-01,2026,1,Interruptor sencillo,Eléctrico,Contratistas,67,22.44,14.48
+153,2026-01,2026,1,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,102,38.65,26.92
+154,2026-01,2026,1,Llave de paso 1/2 pulg,Plomería,Mostrador,29,64.57,43.47
+155,2026-01,2026,1,Tornillos para madera (caja),Tornillería,Contratistas,41,49.06,29.34
+156,2026-01,2026,1,Clavos 2 pulg (libra),Tornillería,WhatsApp,93,16.18,9.87
+157,2026-02,2026,2,Cemento gris 42.5 kg,Construcción,Contratistas,106,98.79,69.52
+158,2026-02,2026,2,Block de concreto 15x20x40,Construcción,WhatsApp,363,9.53,6.25
+159,2026-02,2026,2,Taladro inalámbrico 18V,Herramientas,Mostrador,10,909.16,643.06
+160,2026-02,2026,2,Juego de llaves combinadas,Herramientas,Contratistas,17,324.47,226.24
+161,2026-02,2026,2,Pintura látex galón,Pinturas,WhatsApp,55,270.93,178.11
+162,2026-02,2026,2,Barniz para madera galón,Pinturas,Mostrador,23,181.32,112.24
+163,2026-02,2026,2,Cable THW calibre 12 (metro),Eléctrico,Contratistas,559,7.77,5.66
+164,2026-02,2026,2,Interruptor sencillo,Eléctrico,WhatsApp,76,21.57,14.07
+165,2026-02,2026,2,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,107,37.87,26.36
+166,2026-02,2026,2,Llave de paso 1/2 pulg,Plomería,Contratistas,33,66.23,43.65
+167,2026-02,2026,2,Tornillos para madera (caja),Tornillería,WhatsApp,51,47.85,27.91
+168,2026-02,2026,2,Clavos 2 pulg (libra),Tornillería,Mostrador,97,15.78,9.99
+169,2026-03,2026,3,Cemento gris 42.5 kg,Construcción,WhatsApp,121,96.13,68.01
+170,2026-03,2026,3,Block de concreto 15x20x40,Construcción,Mostrador,584,9.44,6.28
+171,2026-03,2026,3,Taladro inalámbrico 18V,Herramientas,Contratistas,15,908.09,637.15
+172,2026-03,2026,3,Juego de llaves combinadas,Herramientas,WhatsApp,22,315.13,212.10
+173,2026-03,2026,3,Pintura látex galón,Pinturas,Mostrador,63,265.84,171.22
+174,2026-03,2026,3,Barniz para madera galón,Pinturas,Contratistas,28,179.19,113.35
+175,2026-03,2026,3,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,966,7.91,5.64
+176,2026-03,2026,3,Interruptor sencillo,Eléctrico,Mostrador,88,21.86,14.14
+177,2026-03,2026,3,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,156,38.64,27.44
+178,2026-03,2026,3,Llave de paso 1/2 pulg,Plomería,WhatsApp,62,66.66,44.41
+179,2026-03,2026,3,Tornillos para madera (caja),Tornillería,Mostrador,63,47.87,28.91
+180,2026-03,2026,3,Clavos 2 pulg (libra),Tornillería,Contratistas,147,16.39,10.37
+181,2026-04,2026,4,Cemento gris 42.5 kg,Construcción,Mostrador,109,98.44,68.84
+182,2026-04,2026,4,Block de concreto 15x20x40,Construcción,Contratistas,667,9.43,6.32
+183,2026-04,2026,4,Taladro inalámbrico 18V,Herramientas,WhatsApp,16,889.35,635.33
+184,2026-04,2026,4,Juego de llaves combinadas,Herramientas,Mostrador,26,317.09,209.85
+185,2026-04,2026,4,Pintura látex galón,Pinturas,Contratistas,69,260.56,168.98
+186,2026-04,2026,4,Barniz para madera galón,Pinturas,WhatsApp,35,182.54,116.83
+187,2026-04,2026,4,Cable THW calibre 12 (metro),Eléctrico,Mostrador,819,7.83,5.42
+188,2026-04,2026,4,Interruptor sencillo,Eléctrico,Contratistas,104,22.13,14.23
+189,2026-04,2026,4,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,165,37.89,25.64
+190,2026-04,2026,4,Llave de paso 1/2 pulg,Plomería,Mostrador,62,66.51,43.04
+191,2026-04,2026,4,Tornillos para madera (caja),Tornillería,Contratistas,60,49.31,30.25
+192,2026-04,2026,4,Clavos 2 pulg (libra),Tornillería,WhatsApp,165,15.99,9.68
+193,2026-05,2026,5,Cemento gris 42.5 kg,Construcción,Contratistas,139,97.09,69.75
+194,2026-05,2026,5,Block de concreto 15x20x40,Construcción,WhatsApp,525,9.55,6.31
+195,2026-05,2026,5,Taladro inalámbrico 18V,Herramientas,Mostrador,18,912.53,629.98
+196,2026-05,2026,5,Juego de llaves combinadas,Herramientas,Contratistas,31,321.42,219.34
+197,2026-05,2026,5,Pintura látex galón,Pinturas,WhatsApp,81,264.02,174.01
+198,2026-05,2026,5,Barniz para madera galón,Pinturas,Mostrador,31,181.94,114.89
+199,2026-05,2026,5,Cable THW calibre 12 (metro),Eléctrico,Contratistas,767,7.86,5.74
+200,2026-05,2026,5,Interruptor sencillo,Eléctrico,WhatsApp,113,21.70,14.37
+201,2026-05,2026,5,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,189,37.36,26.04
+202,2026-05,2026,5,Llave de paso 1/2 pulg,Plomería,Contratistas,42,66.27,44.90
+203,2026-05,2026,5,Tornillos para madera (caja),Tornillería,WhatsApp,58,47.68,28.68
+204,2026-05,2026,5,Clavos 2 pulg (libra),Tornillería,Mostrador,154,16.05,9.76
+205,2026-06,2026,6,Cemento gris 42.5 kg,Construcción,WhatsApp,110,96.95,68.35
+206,2026-06,2026,6,Block de concreto 15x20x40,Construcción,Mostrador,628,9.54,6.31
+207,2026-06,2026,6,Taladro inalámbrico 18V,Herramientas,Contratistas,14,886.99,615.83
+208,2026-06,2026,6,Juego de llaves combinadas,Herramientas,WhatsApp,27,321.05,221.55
+209,2026-06,2026,6,Pintura látex galón,Pinturas,Mostrador,61,264.00,171.14
+210,2026-06,2026,6,Barniz para madera galón,Pinturas,Contratistas,27,176.47,108.47
+211,2026-06,2026,6,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,922,7.92,5.73
+212,2026-06,2026,6,Interruptor sencillo,Eléctrico,Mostrador,94,22.39,14.26
+213,2026-06,2026,6,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,156,38.79,26.64
+214,2026-06,2026,6,Llave de paso 1/2 pulg,Plomería,WhatsApp,51,66.41,42.96
+215,2026-06,2026,6,Tornillos para madera (caja),Tornillería,Mostrador,59,49.36,29.11
+216,2026-06,2026,6,Clavos 2 pulg (libra),Tornillería,Contratistas,141,16.47,10.16
+217,2026-07,2026,7,Cemento gris 42.5 kg,Construcción,Mostrador,130,100.24,73.06
+218,2026-07,2026,7,Block de concreto 15x20x40,Construcción,Contratistas,705,9.61,6.32
+219,2026-07,2026,7,Taladro inalámbrico 18V,Herramientas,WhatsApp,21,904.25,617.47
+220,2026-07,2026,7,Juego de llaves combinadas,Herramientas,Mostrador,31,325.42,216.19
+221,2026-07,2026,7,Pintura látex galón,Pinturas,Contratistas,59,269.17,173.53
+222,2026-07,2026,7,Barniz para madera galón,Pinturas,WhatsApp,28,177.95,113.06
+223,2026-07,2026,7,Cable THW calibre 12 (metro),Eléctrico,Mostrador,780,8.01,5.85
+224,2026-07,2026,7,Interruptor sencillo,Eléctrico,Contratistas,84,22.63,14.84
+225,2026-07,2026,7,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,208,38.74,26.39
+226,2026-07,2026,7,Llave de paso 1/2 pulg,Plomería,Mostrador,49,63.73,42.11
+227,2026-07,2026,7,Tornillos para madera (caja),Tornillería,Contratistas,77,49.06,29.42
+228,2026-07,2026,7,Clavos 2 pulg (libra),Tornillería,WhatsApp,140,16.31,10.15
+229,2026-08,2026,8,Cemento gris 42.5 kg,Construcción,Contratistas,118,98.27,71.22
+230,2026-08,2026,8,Block de concreto 15x20x40,Construcción,WhatsApp,456,9.75,6.50
+231,2026-08,2026,8,Taladro inalámbrico 18V,Herramientas,Mostrador,12,888.50,628.74
+232,2026-08,2026,8,Juego de llaves combinadas,Herramientas,Contratistas,19,319.14,221.26
+233,2026-08,2026,8,Pintura látex galón,Pinturas,WhatsApp,53,266.73,166.59
+234,2026-08,2026,8,Barniz para madera galón,Pinturas,Mostrador,22,176.74,111.95
+235,2026-08,2026,8,Cable THW calibre 12 (metro),Eléctrico,Contratistas,547,8.00,5.70
+236,2026-08,2026,8,Interruptor sencillo,Eléctrico,WhatsApp,73,22.27,14.54
+237,2026-08,2026,8,Tubo PVC 1/2 pulg (tramo),Plomería,Mostrador,130,38.15,25.57
+238,2026-08,2026,8,Llave de paso 1/2 pulg,Plomería,Contratistas,45,64.14,41.33
+239,2026-08,2026,8,Tornillos para madera (caja),Tornillería,WhatsApp,41,48.32,28.57
+240,2026-08,2026,8,Clavos 2 pulg (libra),Tornillería,Mostrador,144,16.28,9.83
+241,2026-09,2026,9,Cemento gris 42.5 kg,Construcción,WhatsApp,103,96.63,71.51
+242,2026-09,2026,9,Block de concreto 15x20x40,Construcción,Mostrador,511,9.65,6.30
+243,2026-09,2026,9,Taladro inalámbrico 18V,Herramientas,Contratistas,13,891.52,638.92
+244,2026-09,2026,9,Juego de llaves combinadas,Herramientas,WhatsApp,21,320.00,217.78
+245,2026-09,2026,9,Pintura látex galón,Pinturas,Mostrador,60,265.25,169.65
+246,2026-09,2026,9,Barniz para madera galón,Pinturas,Contratistas,25,180.35,115.45
+247,2026-09,2026,9,Cable THW calibre 12 (metro),Eléctrico,WhatsApp,683,7.87,5.58
+248,2026-09,2026,9,Interruptor sencillo,Eléctrico,Mostrador,62,22.60,14.59
+249,2026-09,2026,9,Tubo PVC 1/2 pulg (tramo),Plomería,Contratistas,107,38.12,25.74
+250,2026-09,2026,9,Llave de paso 1/2 pulg,Plomería,WhatsApp,35,65.39,42.55
+251,2026-09,2026,9,Tornillos para madera (caja),Tornillería,Mostrador,48,48.80,28.45
+252,2026-09,2026,9,Clavos 2 pulg (libra),Tornillería,Contratistas,126,16.10,10.25
+253,2026-10,2026,10,Cemento gris 42.5 kg,Construcción,Mostrador,84,97.85,69.25
+254,2026-10,2026,10,Block de concreto 15x20x40,Construcción,Contratistas,365,9.39,6.16
+255,2026-10,2026,10,Taladro inalámbrico 18V,Herramientas,WhatsApp,11,881.83,635.43
+256,2026-10,2026,10,Juego de llaves combinadas,Herramientas,Mostrador,19,313.69,209.43
+257,2026-10,2026,10,Pintura látex galón,Pinturas,Contratistas,48,270.31,173.26
+258,2026-10,2026,10,Barniz para madera galón,Pinturas,WhatsApp,28,177.16,109.39
+259,2026-10,2026,10,Cable THW calibre 12 (metro),Eléctrico,Mostrador,769,7.73,5.60
+260,2026-10,2026,10,Interruptor sencillo,Eléctrico,Contratistas,86,22.18,14.76
+261,2026-10,2026,10,Tubo PVC 1/2 pulg (tramo),Plomería,WhatsApp,135,37.31,26.45
+262,2026-10,2026,10,Llave de paso 1/2 pulg,Plomería,Mostrador,46,65.96,44.42
+263,2026-10,2026,10,Tornillos para madera (caja),Tornillería,Contratistas,50,49.28,30.38
+264,2026-10,2026,10,Clavos 2 pulg (libra),Tornillería,WhatsApp,140,16.45,10.29
